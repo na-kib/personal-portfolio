@@ -28,12 +28,12 @@
     width: 200px;
     position: absolute;
 }
-h4{
+#heading-title-1{
     position: absolute;
     margin:280px 130px;
     z-index: 1;
 }
-#heading{
+#heading-1{
     position: absolute;
     z-index: 1;
     text-align: justify;
@@ -55,7 +55,7 @@ h4{
     background-image: linear-gradient(to bottom left, #b91616, #b91616, #d3c7c7);
     margin: 537px 130px;
 }
-#img3{
+#img2{
     background-image: url(nakib-uddin.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -64,4 +64,38 @@ h4{
     z-index: 2;
     position: absolute;
     margin: 80px 730px;
+}
+#img3{
+    background-image: url(nakib.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 500px;
+    z-index: 2;
+    position: absolute;
+    margin: 700px 100px;
+}
+#head3{
+    position: absolute;
+    z-index: 1;
+    margin: 700px 750px;
+    margin-right: 0px;
+    font-size: 40px;
+}
+#heading-title-2{
+    position: absolute;
+    z-index: 1;
+    margin: 790px 750px;
+    margin-right: 0px;
+}
+#heading-2{
+    position: absolute;
+    z-index: 1;
+    margin: 850px 750px;
+    text-align: justify;
+    height: 500px;
+    width: 450px;
+}
+#resume{
+
 }
