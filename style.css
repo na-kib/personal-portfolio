@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 *{
     padding: 0%;
     margin: 0;
@@ -130,4 +131,69 @@ section{
     position: absolute;
     margin: 1200px 10px;
     z-index: 2;
+}
+#experience{
+    position: absolute;
+    margin: 30px 10px;
+    font-size: 30px;
+}
+#senior{
+    text-align: justify;
+    background-color: transparent;
+    border-left: 4px solid tomato;
+    position: absolute;
+    margin: 130px 60px;
+    height: 300px;
+    width: 500px;
+    z-index: 3;
+    box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.5);
+    padding: 15px;
+}
+#junior{
+    text-align: justify;
+    background-color: transparent;
+    position: absolute;
+    margin: 130px 730px;
+    height: 300px;
+    width: 500px;
+    z-index: 3;
+    box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.5);
+    padding: 15px;
+}
+.junior{
+    height: 330px;
+    width: 5px;
+    background-image: linear-gradient(to bottom,#1919b3, #adffff);
+    position: absolute;
+    z-index: 4;
+    margin: 130px 725px;
+}
+#img5{
+    background-image: url(exp-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 98px;
+    position: absolute;
+    z-index: 2;
+    margin-top: 220px;
+    margin-left: -10px;
+}
+#h1{
+    font-size: 35px;
+}
+#h3{
+    color: #f1b900;
+}
+.footer{
+    position: absolute;
+    z-index: 5;
+    margin: 1800px 10px;
+}
+#f{
+    position: absolute;
+    margin: 0px 560px;
+    display: inline;
+    width: 500px;
+    font-family: "Source Code Pro", monospace;
 }
