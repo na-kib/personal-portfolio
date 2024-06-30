@@ -143,7 +143,7 @@ section{
     border-left: 5px solid tomato;
     position: absolute;
     margin: 130px 60px;
-    height: 300px;
+    height: 440px;
     width: 500px;
     z-index: 3;
     box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.5);
@@ -154,14 +154,14 @@ section{
     background-color: transparent;
     position: absolute;
     margin: 130px 730px;
-    height: 300px;
+    height: 440px;
     width: 500px;
     z-index: 3;
     box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.5);
     padding: 15px;
 }
 .junior{
-    height: 330px;
+    height: 470px;
     width: 5px;
     background-image: linear-gradient(to bottom,#1919b3, #adffff);
     position: absolute;
@@ -176,7 +176,7 @@ section{
     width: 98px;
     position: absolute;
     z-index: 2;
-    margin-top: 220px;
+    margin-top: 350px;
     margin-left: -10px;
 }
 #h1{
@@ -188,7 +188,7 @@ section{
 .footer{
     position: absolute;
     z-index: 5;
-    margin: 1800px 10px;
+    margin: 1850px 10px;
 }
 #f{
     position: absolute;
@@ -196,4 +196,5 @@ section{
     display: inline;
     width: 500px;
     font-family: "Source Code Pro", monospace;
+    font-weight: 700;
 }
