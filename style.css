@@ -58,7 +58,7 @@ section{
     border-radius: 6px;
     font-size: 16px;
     background-image: linear-gradient(to right, orange, tomato);
-    margin: 537px 130px;
+    margin: 520px 130px;
 }
 #img2{
     background-image: url(nakib-uddin.png);
@@ -115,7 +115,7 @@ section{
     font-size: 16px;
     border: none;
     background-image: linear-gradient(to right, orange, tomato);
-    margin: 1050px 750px;
+    margin: 1080px 750px;
 }
 #img4{
     background-image: url(dream-bg.png);
@@ -140,7 +140,7 @@ section{
 #senior{
     text-align: justify;
     background-color: transparent;
-    border-left: 4px solid tomato;
+    border-left: 5px solid tomato;
     position: absolute;
     margin: 130px 60px;
     height: 300px;
